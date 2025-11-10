@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <UseWindowsForms>true</UseWindowsForms>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>TaskDialog Message Box</Title>
+	  <Company>VBW Software</Company>
+	  <Authors>Dan Rushe</Authors>
+	  <Description>Provides standard Message Box functionality using a TaskDialog.</Description>
+	  <Copyright>© 2025 VBW Software</Copyright>
+	  <Version>1.0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
