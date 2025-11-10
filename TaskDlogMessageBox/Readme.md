@@ -1,0 +1,1 @@
+﻿This library provides the standard MessageBox functionality using a TaskDialog. The arguments follow the same order as MessageBox.Show() but also adds an argument for the main instruction text. 
